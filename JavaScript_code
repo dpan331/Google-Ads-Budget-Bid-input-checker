@@ -1,5 +1,7 @@
+//Created by Dimitrios Panourgias, May 2021
+
 function main() {
-  Logger.log("Budget-Bid input mistake checker");
+  Logger.log("Budget-Bid input checker");
   Logger.log("=========================");
   budgetDigitChecker();
   Logger.log("=========================");
