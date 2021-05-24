@@ -14,7 +14,7 @@ As you can understand by reading the simple code, this JS script performs three 
 
 ## How to deploy this script
 
-Go to the relevant gihub file in the current repository (specifically the one named "JavaScript_code") and copy the code. Go to your Google Ads ad account in Tools & Settings > Bulk actions > Scripts. Click on the "+" icon, paste the code and save your script. Try running it. The first time you do, you will have to authorize it. Proceed so (don't worry this script only reads data, it will not change/edit anything in your ad account) and you will see that the script is run and finished successfully. In the "Script history" section you will be able to see that it has been completed, as shown in the screenshot below.
+Go to the relevant gihub file in the current repository (specifically the one named "google-ad-budget-bid-input-checker--code.js") and copy the code. Go to your Google Ads ad account in Tools & Settings > Bulk actions > Scripts. Click on the "+" icon, paste the code and save your script. Try running it. The first time you do, you will have to authorize it. Proceed so (don't worry this script only reads data, it will not change/edit anything in your ad account) and you will see that the script is run and finished successfully. In the "Script history" section you will be able to see that it has been completed, as shown in the screenshot below.
 
 <img src="https://github.com/dpan331/Google-Ads-Budget-Bid-input-checker/blob/main/img/scriptHistory.JPG" height="300" width="1100">
 
