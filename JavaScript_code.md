@@ -1,4 +1,4 @@
-```function main() {
+`function main() {
   Logger.log("Budget-Bid input mistake checker");
   Logger.log("=========================");
   budgetDigitChecker();
@@ -42,4 +42,4 @@ function adGroupBidChecker() {
     }
     
   }
-}```
+}
