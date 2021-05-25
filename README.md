@@ -3,6 +3,8 @@ In this repository I deal with the common problem all marketers face when monito
 
 A short JavaScript Google Ads script can easily help you check all values that a user has input as budget or bid and inform you if a mistake has been made.
 
+🚸 This script is not maintained, so, in time, certain operations or even the entire script may not be functional.
+
 Let me go through the whole process in more detail.
 
 ## What exactly does this script do
